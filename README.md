@@ -10,7 +10,7 @@ A simple way to send email without an SMTP server.
 ## Setup
 Just download, extract and run VBMail-setup.exe to install.
 
-### Requirements
+## Requirements
 * Windows OS
 * .NET Framework
 
