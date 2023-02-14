@@ -4,14 +4,22 @@
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1-informational)](https://github.com/gyware/VBMail)
 ![AppVeyor](https://img.shields.io/badge/Development-In_Progress-lightgreen)
 ![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
+![AppVeyor](https://img.shields.io/badge/Dependencies-.NET-red)
+![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
+![AppVeyor](https://img.shields.io/badge/Interface-WinForms-lightgreen)
 
 A simple way to send email without an SMTP server.
+
+## Requirements
+* Windows Vista/7/8/10/11+
+* .NET Framework
 
 ## Setup
 Just download, extract and run VBMail-setup.exe to install.
 
-## Requirements
-* Windows OS
-* .NET Framework
-
 *Easy to use, easy to understand.*
+
+## Features
+* Send email without an SMTP (mail transfer) server
+* Uses **no** 3rd party APIs
+* Optionally specify a custom SMTP to use
