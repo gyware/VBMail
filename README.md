@@ -10,6 +10,11 @@
 
 A simple way to send email without an SMTP server.
 
+## Features
+* Send email without an SMTP (mail transfer) server
+* Uses **no** 3rd party APIs
+* Optionally specify a custom SMTP to use
+
 ## Requirements
 * Windows Vista/7/8/10/11+
 * .NET Framework
@@ -18,8 +23,3 @@ A simple way to send email without an SMTP server.
 Just download, extract and run VBMail-setup.exe to install.
 
 *Easy to use, easy to understand.*
-
-## Features
-* Send email without an SMTP (mail transfer) server
-* Uses **no** 3rd party APIs
-* Optionally specify a custom SMTP to use
