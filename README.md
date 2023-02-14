@@ -11,7 +11,7 @@
 A simple way to send email without an SMTP server.
 
 ## Features
-* Send email without an SMTP (mail transfer) server
+* Send email without an SMTP server
 * Uses **no** 3rd party APIs
 * Optionally specify a custom SMTP to use
 
