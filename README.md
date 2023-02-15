@@ -2,7 +2,7 @@
 
 [![AppVeyor](https://img.shields.io/badge/Licence-MIT-orange)](LICENSE)
 [![AppVeyor](https://img.shields.io/badge/Version-v0.1-informational)](https://github.com/gyware/VBMail)
-![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightgrey)
+![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightgray)
 ![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-.NET-red)
 ![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
