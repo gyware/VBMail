@@ -8,6 +8,8 @@
 ![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
 ![AppVeyor](https://img.shields.io/badge/Interface-WinForms-lightgreen)
 
+<p style="font-size: 42px;">VBMail has been discontinued and the project has moved to <a href="/gyware/DMail">DMail</a></p>
+
 A simple way to send email without an SMTP server.
 
 ## Features
