@@ -5,7 +5,6 @@
 ![AppVeyor](https://img.shields.io/badge/Development-Discontinued-lightgray)
 ![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
 ![AppVeyor](https://img.shields.io/badge/Dependencies-.NET-red)
-![AppVeyor](https://img.shields.io/badge/Language-VB.NET-red)
 ![AppVeyor](https://img.shields.io/badge/Interface-WinForms-lightgreen)
 
 # VBMail has been discontinued and the project has moved to <a href="https://github.com/gyware/DMail">DMail</a>.
